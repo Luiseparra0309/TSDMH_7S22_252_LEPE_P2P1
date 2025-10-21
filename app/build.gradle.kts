@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "mx.edu.tesoem.isc.tsdmh_7s22_252_lepe_p1p2"
+    namespace = "mx.edu.tesoem.isc.tsdmh_7s22_252_lepe_p2p1"
     compileSdk = 36
 
     defaultConfig {

@@ -1,4 +1,4 @@
-package mx.edu.tesoem.isc.tsdmh_7s22_252_lepe_p1p2;
+package mx.edu.tesoem.isc.tsdmh_7s22_252_lepe_p2p1;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
