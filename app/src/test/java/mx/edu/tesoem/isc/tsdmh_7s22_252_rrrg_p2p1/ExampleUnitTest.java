@@ -1,4 +1,4 @@
-package mx.edu.tesoem.isc.tsdmh_7s22_252_lepe_p2p1;
+package mx.edu.tesoem.isc.tsdmh_7s22_252_rrrg_p2p1;
 
 import org.junit.Test;
 
